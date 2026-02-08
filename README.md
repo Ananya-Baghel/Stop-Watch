@@ -11,7 +11,7 @@ Try the stopwatch live here:
 🔗 **GitHub Pages:**  
 https://ananya-baghel.github.io/Stop-Watch/
 
-> *(Make sure to enable GitHub Pages from your repo settings if not already deployed)*
+
 
 ---
 
